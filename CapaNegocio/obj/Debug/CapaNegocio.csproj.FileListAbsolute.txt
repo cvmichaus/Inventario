@@ -1,0 +1,11 @@
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\cmichaus\source\repos\Inventario\CapaNegocio\obj\Debug\CapaNegocio.pdb
